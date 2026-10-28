@@ -16,7 +16,7 @@ Git e GitHub
 
 Projetos
 
-API Pokémon
+API
 
 Projeto de estudo para praticar desenvolvimento de APIs utilizando Node.js, Express e MongoDB.
 
