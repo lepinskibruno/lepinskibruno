@@ -1,16 +1,28 @@
-## Hi there 👋
+Bruno Lepinski
 
-<!--
-**lepinskibruno/lepinskibruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Back-end. Buscando aprimorar minhas habilidades por meio de projetos práticos e conquistar uma oportunidade de estágio na área de tecnologia.
 
-Here are some ideas to get you started:
+Tecnologias em estudo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript
+
+Node.js
+
+Express
+
+MongoDB
+
+Git e GitHub
+
+Projetos
+
+API Pokémon
+
+Projeto de estudo para praticar desenvolvimento de APIs utilizando Node.js, Express e MongoDB.
+
+Contato
+
+GitHub: https://github.com/lepinskibruno
+
+LinkedIn: https://www.linkedin.com/in/bruno-lepinski-a385903a4/
+
